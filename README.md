@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![@erikasans's Holopin board](https://holopin.me/erikasans)](https://holopin.io/@erikasans)
